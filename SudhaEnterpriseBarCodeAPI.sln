@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SudhaEnterpriseBarCodeAPI", "SudhaEnterpriseBarCodeAPI\SudhaEnterpriseBarCodeAPI.csproj", "{B799E1B5-0090-49FC-8739-6D7A48001405}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B799E1B5-0090-49FC-8739-6D7A48001405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B799E1B5-0090-49FC-8739-6D7A48001405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B799E1B5-0090-49FC-8739-6D7A48001405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B799E1B5-0090-49FC-8739-6D7A48001405}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88DAA8B6-C380-4DF9-94CB-0E270D9603C1}
+	EndGlobalSection
+EndGlobal
